@@ -3,8 +3,11 @@
         "url": "",
         "dest_path_data": "test_data/phase1data/train/cbis_sample.zip",
         "drive_url_data": "https://drive.google.com/file/d/19QMJB7dUws7Roi5E3e0x5Pz7psoajq1J/view?usp=sharing",
-        "drive_url_model": "https://drive.google.com/file/d/1g8onUzEjEUKwcWuzr85sAKN0DVthRXm5/view?usp=sharing",
-        "dest_path_model": "model_weights/cbis_a1_b1.zip"
+        "drive_url_encoder": "https://drive.google.com/file/d/1P_7o1zQAF6KdhNTPuEbFG2EYGrJvzdqV/view?usp=share_link",
+        "drive_url_decoder": "https://drive.google.com/file/d/1LT7ibeSnHPVxNyXvPsUkQc9gDOYex0Jl/view?usp=share_link",
+        "dest_path_encoder": "model_weights/encoder_cbis_a1_b1.zip",
+        "dest_path_decoder": "model_weights/decoder_cbis_a1_b1.zip"
+
     },
     "stage2": {
         "url": "",
